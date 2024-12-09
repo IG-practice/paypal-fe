@@ -1,0 +1,6 @@
+SDLC is good
+Linux is open source
+shell scripting is automation
+git is a Distributed virtual control system
+aws is a cloud computing tool
+ec2 instances is a virtual server
